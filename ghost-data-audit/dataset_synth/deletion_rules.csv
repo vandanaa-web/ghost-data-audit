@@ -1,0 +1,7 @@
+data_category,treatment
+account,DELETE
+ticket,DELETE
+doc,DELETE
+row,DELETE
+tombstone,REDACT
+invoice,RETAIN

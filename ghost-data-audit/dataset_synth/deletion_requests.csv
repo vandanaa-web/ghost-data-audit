@@ -1,0 +1,61 @@
+case_id,email,requested_at,reported_status,reported_at,audit_at,request_text
+case_000,person0@mail.example,2026-09-01T00:00:00,PARTIALLY_COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_001,person1@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_002,person2@mail.example,2026-09-01T00:00:00,PARTIALLY_COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_003,person3@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_004,person4@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_005,person5@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_006,person6@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,"I want to keep my account, please update my shipping address."
+case_007,person7@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_008,person8@mail.example,2026-09-01T00:00:00,PARTIALLY_COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_009,person9@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_010,person10@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_011,person11@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_012,person12@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_013,person13@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_014,person14@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,"I want to keep my account, please update my shipping address."
+case_015,person15@mail.example,2026-09-01T00:00:00,PARTIALLY_COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_016,person16@mail.example,2026-09-01T00:00:00,PARTIALLY_COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_017,person17@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_018,person18@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_019,person19@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_020,person20@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_021,person21@mail.example,2026-09-01T00:00:00,PARTIALLY_COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_022,person22@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,"I want to keep my account, please update my shipping address."
+case_023,person23@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_024,person24@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_025,person25@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_026,person26@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_027,person27@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_028,person28@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_029,person29@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_030,person30@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,"I want to keep my account, please update my shipping address."
+case_031,person31@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_032,person32@mail.example,2026-09-01T00:00:00,PARTIALLY_COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_033,person33@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_034,person34@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_035,person35@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_036,person36@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_037,person37@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_038,person38@mail.example,2026-09-01T00:00:00,PARTIALLY_COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,"I want to keep my account, please update my shipping address."
+case_039,person39@mail.example,2026-09-01T00:00:00,PARTIALLY_COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_040,person40@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_041,person41@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_042,person42@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_043,person43@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_044,person44@mail.example,2026-09-01T00:00:00,PARTIALLY_COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_045,person45@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_046,person46@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,"I want to keep my account, please update my shipping address."
+case_047,person47@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_048,person48@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_049,person49@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_050,person50@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_051,person51@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_052,person52@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_053,person53@mail.example,2026-09-01T00:00:00,PARTIALLY_COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_054,person54@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,"I want to keep my account, please update my shipping address."
+case_055,person55@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_056,person56@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_057,person57@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_058,person58@mail.example,2026-09-01T00:00:00,NOT_STARTED,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
+case_059,person59@mail.example,2026-09-01T00:00:00,COMPLETE,2026-09-05T00:00:00,2026-10-01T00:00:00,Please delete all my data under GDPR.
